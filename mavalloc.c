@@ -1,6 +1,3 @@
-/*
-    Names for Group:      Abdulla Sakallah - Section 003 - 1001846204 || Mohammed Ahmed Zakiuddin - Section 001 - 1001675091                        
-*/
 #include "mavalloc.h"
 #include "tinytest.h"
 #include <stdio.h>
