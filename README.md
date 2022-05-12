@@ -2,8 +2,8 @@
 
 Instructions: (Run the code):
 
-gcc mavalloc.c
-./a.out
+gcc mavalloc.c <br />
+./a.out <br />
 
 This program is written to allocate memory using malloc in a linked list. <br />
 
