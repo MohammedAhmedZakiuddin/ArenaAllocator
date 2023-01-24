@@ -10,7 +10,7 @@ This program is written to allocate memory using malloc in a linked list. <br />
 
 ![image](https://user-images.githubusercontent.com/60457052/168406260-d5ed7101-3e28-40c2-83a5-5e584558be33.png)
 
-While this implementation works fine for most applications applications with performance needs, <br />
+While this implementation works fine for most applications with performance needs, <br />
 e.g. games, aircraft, spacecraft, etc. but can not afford to make a system call every time an allocation is needed. <br /> 
 In these cases a large memory pool or arena is allocated on application startup. <br />
 The application then manages memory on its own by implementing its own allocators to handle requests. <br />
