@@ -1,4 +1,4 @@
-# Arena_Allocator 
+# Arena Allocator 
 
 Instructions: (Run the code):
 
